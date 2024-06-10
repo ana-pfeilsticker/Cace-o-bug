@@ -28,7 +28,7 @@ INSERT INTO Reviews_de_Codigo (id, id_commit, id_revisor, comentario, data_revie
 (26, 26, 26, 'Code is efficient.', '2026-10-26'),
 (27, 27, 27, 'Solid code.', '2026-10-27'),
 (28, 28, 28, 'Well executed.', '2026-10-28'),
-(29, 29, 29, 'Looks great.', '2026-10-29'), -- Unique entry for id_commit 29
+(29, 29, 10, 'Looks great.', '2026-10-26'), -- Unique entry for id_commit 29
 (30, 30, 30, 'Impressive.', '2026-10-30'),
 (31, 31, 31, 'Neat and clean.', '2026-10-31'),
 (32, 32, 32, 'Well organized.', '2026-11-01'),
