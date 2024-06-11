@@ -59,7 +59,7 @@ INSERT INTO Logs_de_Sistema (id, mensagem, severidade, id_erro) VALUES
 (57, 'Erro de codificação de caracteres', 'Baixa', 27),
 (58, 'Erro de execução de script', 'Baixa', 28),
 (59, 'Erro de identificação de usuário', 'Baixa', 29),
-(60, 'Erro de alocação de memória', 'Baixa', 30),
+(60, 'Erro de alocação de memória', 'Alta', 30),
 (61, 'Erro de formatação de texto', 'Baixa', 31),
 (62, 'Erro de sincronização de dados', 'Baixa', 32),
 (63, 'Erro de configuração de servidor', 'Baixa', 33),
